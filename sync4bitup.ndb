@@ -1,0 +1,57 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 97
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|tff_negedge:stageD|
+C	|tff_negedge:stageC|
+X	|tff_negedge:stageB|
+m	|tff_negedge:stageA|
+
+The number of name info structs is : 41
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	5	0	:6	t
+#	IeEA	!	9	0	:7	u
+$	IeEA	!	10	0	:8	v
+%	IeEA	!	10	0	:9	w
+&	L8ef	!	2	0	4	'	(	)	*	clock	o
+'	"?%_o	!	3	0	4	(	)	*	'	q0	!	q0	s
+(	"?%_o	!	3	0	3	)	*	(	q1	!	q1	r
+)	"?%_o	!	3	0	2	*	)	q2	!	q2	q
+*	"?%_o	!	3	0	1	*	q3	!	q3	p
++	IeEA	m	8	0	:10	"n
+,	IGdW	m	:11	"o
+-	IeE1	m	4	0	:12	"p
+.	IGdW	m	:5	"i
+/	IeEA	m	8	0	:6	"j
+0	IeEA	m	8	0	:7	"k
+1	IeEA	m	8	0	:8	"l
+2	IeEA	m	8	0	:9	"m
+3	IeEA	X	8	0	:10	"^
+4	IGdW	X	:11	"_
+5	IeE1	X	4	0	:12	"`
+6	IGdW	X	:5	"Y
+7	IeEA	X	8	0	:6	"Z
+8	IeEA	X	8	0	:7	"[
+9	IeEA	X	8	0	:8	"\
+:	IeEA	X	8	0	:9	"]
+;	IeEA	C	8	0	:10	"N
+<	IGdW	C	:11	"O
+=	IeE1	C	4	0	:12	"P
+>	IGdW	C	:5	"I
+?	IeEA	C	8	0	:6	"J
+@	IeEA	C	8	0	:7	"K
+A	IeEA	C	8	0	:8	"L
+B	IeEA	C	8	0	:9	"M
+C	IeEA	.	8	0	:10	"=
+D	IGdW	.	:11	">
+E	IeE1	.	4	0	:12	"?
+F	IGdW	.	:5	"8
+G	IeEA	.	8	0	:6	"9
+H	IeEA	.	8	0	:7	":
+I	IeEA	.	8	0	:8	";
+J	IeEA	.	8	0	:9	"<

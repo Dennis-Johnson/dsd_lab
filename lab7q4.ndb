@@ -1,0 +1,162 @@
+NDB006
+The number of symbol table entries is: 17
+The length of the symbol table is: 441
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|muxfour:stage0|
+?	|muxfour:stage0|twobitmux:m0|
+]	|muxfour:stage0|twobitmux:m1|
+{	|muxfour:stage0|twobitmux:m2|
+";	|muxfour:stage1|
+"L	|muxfour:stage1|twobitmux:m0|
+"j	|muxfour:stage1|twobitmux:m1|
+#*	|muxfour:stage1|twobitmux:m2|
+#H	|muxfour:stage2|
+#Y	|muxfour:stage2|twobitmux:m0|
+#w	|muxfour:stage2|twobitmux:m1|
+$7	|muxfour:stage2|twobitmux:m2|
+$U	|muxfour:stage3|
+$f	|muxfour:stage3|twobitmux:m0|
+%&	|muxfour:stage3|twobitmux:m1|
+%D	|muxfour:stage3|twobitmux:m2|
+
+The number of name info structs is : 134
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	6	0	:10	x
+#	IeEA	!	8	0	:11	y
+$	IeEA	!	8	0	:12	z
+%	IeEA	!	8	0	:13	{
+&	IeEA	!	8	0	:14	|
+'	IeEA	!	9	0	:15	}
+(	IeEA	!	9	0	:16	~
+)	IeEA	!	9	0	:17	"!
+*	IeEA	!	9	0	:18	""
++	IeEA	!	10	0	:19	"#
+,	IeEA	!	10	0	:20	"$
+-	IeEA	!	10	0	:21	"%
+.	IeEA	!	10	0	:22	"&
+/	IeEA	!	10	0	:23	"'
+0	IeEA	!	10	0	:24	"(
+1	IeEA	!	11	0	:25	")
+2	IeEA	!	11	0	:26	"*
+3	IeEA	!	11	0	:27	"+
+4	IeEA	!	11	0	:28	",
+5	IeEA	!	11	0	:29	"-
+6	IeEA	!	11	0	:30	".
+7	IeEA	!	12	0	:31	"/
+8	IeEA	!	12	0	:32	"0
+9	IeEA	!	12	0	:33	"1
+:	IeEA	!	12	0	:34	"2
+;	IeEA	!	7	0	:9	w
+<	"?%_n	!	2	0	1	@	b0	!	b0	r
+=	"?%_n	!	2	0	2	@	A	b1	!	b1	q
+>	"?%_n	!	2	0	2	A	B	b2	!	b2	p
+?	"?%_n	!	2	0	2	B	C	b3	!	b3	o
+@	"<R?c	!	3	0	g0	!	g0	v
+A	"<R?c	!	3	0	g1	!	g1	u
+B	"<R?c	!	3	0	g2	!	g2	t
+C	"<R?c	!	3	0	g3	!	g3	s
+D	IeEA	.	9	0	:8	"a
+E	IGdW	?	:10	##
+F	IGdW	?	:11	#$
+G	IeEA	?	25	0	:12	#%
+H	IGdW	?	:5	"|
+I	IGdW	?	:6	"}
+J	IGdW	?	:7	"~
+K	IGdW	?	:8	#!
+L	IGdW	?	:9	#"
+M	IGdW	]	:10	#5
+N	IGdW	]	:11	#6
+O	IeEA	]	25	0	:12	#7
+P	IGdW	]	:5	#0
+Q	IGdW	]	:6	#1
+R	IGdW	]	:7	#2
+S	IGdW	]	:8	#3
+T	IGdW	]	:9	#4
+U	IGdW	{	:10	#F
+V	IGdW	{	:11	#G
+W	IeEA	{	25	0	:12	#H
+X	IGdW	{	:5	#A
+Y	IGdW	{	:6	#B
+Z	IGdW	{	:7	#C
+[	IGdW	{	:8	#D
+\	IGdW	{	:9	#E
+]	IeEA	";	9	0	:8	#U
+^	IGdW	"L	:10	#t
+_	IGdW	"L	:11	#u
+`	IeEA	"L	25	0	:12	#v
+a	IGdW	"L	:5	#o
+b	IGdW	"L	:6	#p
+c	IGdW	"L	:7	#q
+d	IGdW	"L	:8	#r
+e	IGdW	"L	:9	#s
+f	IGdW	"j	:10	$'
+g	IGdW	"j	:11	$(
+h	IeEA	"j	25	0	:12	$)
+i	IGdW	"j	:5	$"
+j	IGdW	"j	:6	$#
+k	IGdW	"j	:7	$$
+l	IGdW	"j	:8	$%
+m	IGdW	"j	:9	$&
+n	IGdW	#*	:10	$8
+o	IGdW	#*	:11	$9
+p	IeEA	#*	25	0	:12	$:
+q	IGdW	#*	:5	$3
+r	IGdW	#*	:6	$4
+s	IGdW	#*	:7	$5
+t	IGdW	#*	:8	$6
+u	IGdW	#*	:9	$7
+v	IeEA	#H	9	0	:8	$G
+w	IGdW	#Y	:10	$f
+x	IGdW	#Y	:11	$g
+y	IeEA	#Y	25	0	:12	$h
+z	IGdW	#Y	:5	$a
+{	IGdW	#Y	:6	$b
+|	IGdW	#Y	:7	$c
+}	IGdW	#Y	:8	$d
+~	IGdW	#Y	:9	$e
+"!	IGdW	#w	:10	$w
+""	IGdW	#w	:11	$x
+"#	IeEA	#w	25	0	:12	$y
+"$	IGdW	#w	:5	$r
+"%	IGdW	#w	:6	$s
+"&	IGdW	#w	:7	$t
+"'	IGdW	#w	:8	$u
+"(	IGdW	#w	:9	$v
+")	IGdW	$7	:10	%*
+"*	IGdW	$7	:11	%+
+"+	IeEA	$7	25	0	:12	%,
+",	IGdW	$7	:5	%%
+"-	IGdW	$7	:6	%&
+".	IGdW	$7	:7	%'
+"/	IGdW	$7	:8	%(
+"0	IGdW	$7	:9	%)
+"1	IeEA	$U	9	0	:8	%9
+"2	IGdW	$f	:10	%X
+"3	IGdW	$f	:11	%Y
+"4	IeEA	$f	25	0	:12	%Z
+"5	IGdW	$f	:5	%S
+"6	IGdW	$f	:6	%T
+"7	IGdW	$f	:7	%U
+"8	IGdW	$f	:8	%V
+"9	IGdW	$f	:9	%W
+":	IGdW	%&	:10	%i
+";	IGdW	%&	:11	%j
+"<	IeEA	%&	25	0	:12	%k
+"=	IGdW	%&	:5	%d
+">	IGdW	%&	:6	%e
+"?	IGdW	%&	:7	%f
+"@	IGdW	%&	:8	%g
+"A	IGdW	%&	:9	%h
+"B	IGdW	%D	:10	%z
+"C	IGdW	%D	:11	%{
+"D	IeEA	%D	25	0	:12	%|
+"E	IGdW	%D	:5	%u
+"F	IGdW	%D	:6	%v
+"G	IGdW	%D	:7	%w
+"H	IGdW	%D	:8	%x
+"I	IGdW	%D	:9	%y

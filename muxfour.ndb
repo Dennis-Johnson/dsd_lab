@@ -1,0 +1,47 @@
+NDB006
+The number of symbol table entries is: 4
+The length of the symbol table is: 58
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|twobitmux:m0|
+=	|twobitmux:m1|
+L	|twobitmux:m2|
+
+The number of name info structs is : 32
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	9	0	:8	v
+#	IeE[	!	4	0	r	u
+$	"?%_n	!	3	0	1	#	s0	!	s0	t
+%	"?%_n	!	3	0	1	#	s1	!	s1	s
+&	"?%_n	!	2	0	1	#	w0	!	w0	r
+'	"?%_n	!	2	0	1	#	w1	!	w1	q
+(	"?%_n	!	2	0	1	#	w2	!	w2	p
+)	"?%_n	!	2	0	1	#	w3	!	w3	o
+*	IGdW	.	:10	"8
++	IGdW	.	:11	"9
+,	IeEA	.	25	0	:12	":
+-	IGdW	.	:5	"3
+.	IGdW	.	:6	"4
+/	IGdW	.	:7	"5
+0	IGdW	.	:8	"6
+1	IGdW	.	:9	"7
+2	IGdW	=	:10	"J
+3	IGdW	=	:11	"K
+4	IeEA	=	25	0	:12	"L
+5	IGdW	=	:5	"E
+6	IGdW	=	:6	"F
+7	IGdW	=	:7	"G
+8	IGdW	=	:8	"H
+9	IGdW	=	:9	"I
+:	IGdW	L	:10	"[
+;	IGdW	L	:11	"\
+<	IeEA	L	25	0	:12	"]
+=	IGdW	L	:5	"V
+>	IGdW	L	:6	"W
+?	IGdW	L	:7	"X
+@	IGdW	L	:8	"Y
+A	IGdW	L	:9	"Z

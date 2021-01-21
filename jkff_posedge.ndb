@@ -1,0 +1,46 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 34
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	8	0	:10	x
+#	IeEA	!	9	0	:11	y
+$	IeEA	!	10	0	:12	z
+%	IeEA	!	10	0	:13	{
+&	IeEA	!	10	0	:14	|
+'	IeEA	!	10	0	:15	}
+(	IeEA	!	10	0	:16	~
+)	IeEA	!	11	0	:17	"!
+*	IeEA	!	12	0	:18	""
++	IeEA	!	12	0	:19	"#
+,	IeEA	!	12	0	:20	"$
+-	IeEA	!	12	0	:21	"%
+.	IeEA	!	12	0	:22	"&
+/	IeEA	!	13	0	:23	"'
+0	IeEA	!	13	0	:24	"(
+1	IeEA	!	13	0	:25	")
+2	IeEA	!	13	0	:26	"*
+3	IeEA	!	13	0	:27	"+
+4	IeEA	!	13	0	:28	",
+5	IeEA	!	13	0	:29	"-
+6	IeEA	!	13	0	:30	".
+7	IeEA	!	13	0	:31	"/
+8	IeEA	!	16	0	:32	"0
+9	IeEA	!	16	0	:33	"1
+:	IeE1	!	5	0	:34	"2
+;	IeEA	!	16	0	:6	t
+<	IeEA	!	16	0	:7	u
+=	IeEA	!	8	0	:8	v
+>	IeEA	!	8	0	:9	w
+?	(@\6H	!	3	0	1	B	clock	q
+@	"?%_n	!	2	0	1	B	jk0	!	jk0	p
+A	"?%_n	!	2	0	1	B	jk1	!	jk1	o
+B	L8eg	!	5	0	1	B	q	s
+C	L8ef	!	3	0	1	B	reset	r
